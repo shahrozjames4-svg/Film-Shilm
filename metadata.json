@@ -1,0 +1,6 @@
+{
+  "name": "Movies",
+  "description": "Discover films, search by title or genre, view detailed ratings, and organize personal watchlists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
